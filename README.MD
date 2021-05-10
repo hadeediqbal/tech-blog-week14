@@ -1,7 +1,6 @@
 # Tech Blog Week 14
 Model-View-Controller (MVC) Challenge: Tech Blog
 
-[Link to deployed App](https://the-tech-blog-80087.herokuapp.com)
 
 
 ![licenses](https://img.shields.io/badge/License-MIT_License-blue.svg)
@@ -11,7 +10,6 @@ A Tech Blog where you can create a username and make post to the community.  Aft
 
 ## Table of Contents
 [Installation](#installation)<br>
-[Usage](#usage)<br>
 [License](#license)<br>
 [Questions](#questions)<br>
 ***
@@ -24,9 +22,6 @@ npm i connect-session-sequelize<br>
 npm i express-handlebars<br>
 npm i express-session<br>
 
-
-## Usage
-![](/assets/images/screenshot.jpg)
 
 ## License
 ### This license is covered under the following license(s):
@@ -49,9 +44,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Questions :question:
-For further questions on this project or future collaboration contact me at:<br>
-* GitHub: [terahje](https://github.com/terahje)
-* Email: terahjequinn@gmail.com
-* Repository link: https://github.com/terahje/tech-blog-week14
