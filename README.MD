@@ -22,6 +22,10 @@ npm i connect-session-sequelize<br>
 npm i express-handlebars<br>
 npm i express-session<br>
 
+mysql -u root -p
+cd/db
+pass: Hadeediqbal10!
+
 
 ## License
 ### This license is covered under the following license(s):
